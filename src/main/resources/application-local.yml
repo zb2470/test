@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring_boot_test_local?serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+    name: spring_boot_test_local
+    driver-class-name: com.mysql.cj.jdbc.Driver

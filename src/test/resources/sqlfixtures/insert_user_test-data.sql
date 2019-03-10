@@ -1,0 +1,1 @@
+insert into user (id,age,username) values (1,10,'dabai'),(2,19,'xiaobai'),(3,25,'daxiaobai')
